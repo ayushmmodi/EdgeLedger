@@ -167,3 +167,12 @@ p {
 .h3mar {
   margin: 1rem;
 }
+/* clients*/
+#clients .items {
+  display: flex;
+}
+#clients .items img {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
